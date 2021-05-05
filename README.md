@@ -1,17 +1,17 @@
-# [PacmanJs](https://rishabhdevbanshi.github.io/Pacman-Game/)  :video_game:
+# [PacmanJs](https://tduoth.github.io/SimplePac/)  :video_game:
 
 PacmanJs is a Javascript, HTML and CSS based game that enable you to play with the most charismatic 80's character ever created.
 
 
 ## How to start :triangular_flag_on_post:
-<img src="https://github.com/bhavesh1129/Pacman-Game/blob/master/PacmanImage.PNG" width="600" height="500">
+<img src="https://github.com/tduoth/SimplePac/blob/master/PacmanImage.PNG" width="600" height="500">
 
 ## Installation/Execute :beginner:
 
 Clone the repository and run index.html on your web browser:
 
 ```
-git clone https://github.com/RishabhDevbanshi/Pacman-Game.git
+git clone https://github.com/tduoth/SimplePac.git
 ```
 
 ## How to play :sparkles:
@@ -33,5 +33,4 @@ Please make sure to update the tests if needed.
 PAC-MAN is a trademark of BANDAI NAMCO ENTERTAINMENT INC.
 This game is developed for educational purpose only.
 
-## Support :raised_hands:
- Don't forget to give this Repository a :star:! 
+
